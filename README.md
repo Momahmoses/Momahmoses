@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Moses 👋</h1>
-<h3 align="center">Data Scientist & ML Engineer — Building AI solutions for Africa</h3>
+<h3 align="center">Data Scientist & ML Engineer, Building AI solutions for Africa</h3>
 
 <p align="center">
   <a href="https://github.com/Momahmoses?tab=followers">
