@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/🌍_Live_Portfolio-Nigeria_GIS_Intelligence-00D4AA?style=for-the-badge" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/📍_Location-Lagos,_Nigeria-008751?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_Location-Abuja,_Nigeria-008751?style=for-the-badge" />
 &nbsp;
 <img src="https://img.shields.io/badge/🤝_Open_to-Research_%26_Collaboration-0078D4?style=for-the-badge" />
 
@@ -26,7 +26,7 @@
 
 ## 👨🏿‍💻 About Me
 
-I am a **Geospatial AI Engineer and Data Scientist** based in Lagos, Nigeria, specialising in building production-ready machine learning systems and geospatial intelligence platforms that address Africa's most critical development challenges.
+I am a **Geospatial AI Engineer and Data Scientist** based in Abuja, Nigeria, specialising in building production-ready machine learning systems and geospatial intelligence platforms that address Africa's most critical development challenges.
 
 My work spans the full data-to-decision pipeline — from satellite imagery ingestion and PySpark ETL on Azure Databricks, through spatial analysis with GeoPandas and Folium, to deployed Streamlit dashboards used by planners and policymakers.
 
@@ -189,7 +189,7 @@ I am open to **research collaborations**, **consulting engagements**, and **open
 
 <br/>
 
-📧 **momahmoses@gmail.com** &nbsp;|&nbsp; 📍 **Lagos, Nigeria** &nbsp;|&nbsp; 🌍 **Available for Remote Collaboration**
+📧 **momahmoses@gmail.com** &nbsp;|&nbsp; 📍 **Abuja, Nigeria** &nbsp;|&nbsp; 🌍 **Available for Remote Collaboration**
 
 </div>
 
